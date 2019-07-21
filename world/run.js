@@ -1,1 +1,1 @@
-java.lang.System.out.println(xixi);
+java.lang.System.out.println("heheh");
